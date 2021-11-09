@@ -14,4 +14,4 @@ while True:
     else:
         lcm = lcm + 1
 
-print("LCM of two numbers is =")
+print("LCM of two numbers is =", lcm)
