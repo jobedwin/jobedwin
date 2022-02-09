@@ -1,4 +1,4 @@
-#  Two or more matrices of same order can be added by adding the eleents in their corresponding positions
+#  Two or more matrices of same order can be added by adding the elements in their corresponding positions
 
 row = int(input("enter the row number:"))
 column = int(input("enter the column number:"))

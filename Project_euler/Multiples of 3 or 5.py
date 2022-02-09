@@ -1,1 +1,0 @@
-print (Fraction('3.9')))

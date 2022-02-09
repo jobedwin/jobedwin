@@ -6,7 +6,3 @@ y2 = int(input("Enter the number of y2 : "))
 
 print("slope of a point is : ")
 print(y2-y1/x2-x1)
-
-
-
-
