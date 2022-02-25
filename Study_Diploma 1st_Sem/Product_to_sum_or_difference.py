@@ -12,4 +12,3 @@ cos= math.cos((cosc-cosd)/2)
 
 print(sin)
 print(cos)
-
